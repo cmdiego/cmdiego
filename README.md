@@ -23,7 +23,6 @@ I'm an embedded software engineer who enjoys building things, exploring technolo
 - [sample-manager](https://github.com/cmdiego/sample-manager) — A Python CLI and desktop app for indexing, searching, tagging, arranging, and exporting sample libraries.
 - [ableton_live_mcp](https://github.com/cmdiego/ableton_live_mcp) — An MCP server for Ableton Live 12 that exposes the Live API and Max for Live API to external tools.
 - [raylib-cpp-game-template](https://github.com/cmdiego/raylib-cpp-game-template) — A C++20 game template built with raylib, designed for fast prototyping and a clean project structure.
-- [portfolio-website](https://github.com/cmdiego/portfolio-website) — Personal portfolio site (plain HTML/CSS/JS) showcasing my work.
 
 ## Connect
 - Website: https://cmdiego.github.io/portfolio-website/
