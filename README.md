@@ -1,55 +1,38 @@
-# Hi, I’m Diego 👋 (cmdiego)
+# Hi, I’m Diego 👋
+
+I’m a software engineer focused on creative tooling, audio workflows, and desktop/embedded software. I enjoy building practical systems that make creative work faster, cleaner, and more flexible.
 
 ![profile](https://github.com/cmdiego.png)
 
 ## About me
-- 🔭 I’m currently working on: YOUR_CURRENT_PROJECT_OR_ROLE
-- 🌱 I’m learning: SOMETHING_YOU_ARE_LEARNING
-- 👯 I’m open to collaborating on: SHORT_LIST_OF_PROJECT_TYPES
-- 💬 Ask me about: YOUR_TOP_EXPERTISE (e.g., React, Node, Rust)
-- ⚡ Fun fact: A SHORT_FUN_FACT
+- 🔭 I’m currently building: Python desktop tools, music-tech software, and workflow automation for sample libraries and creative production
+- 🌱 I’m learning: low-latency audio, real-time tooling, and deeper C++/systems-level development
+- 👯 I’m open to collaborating on: creative coding, music technology, sample management tools, desktop apps, and embedded software
+- 💬 Ask me about: Python, PySide6/Qt, audio tools, CLI workflows, sample organization, and practical software for creative work
+- ⚡ Fun fact: I like turning messy creative processes into clean, reliable systems
 
-### Skills
-- Languages: JavaScript, TypeScript, Python, Go (customize)
-- Frameworks / Tools: React, Node.js, Docker, GitHub Actions, SQL (customize)
-- Interests: Open source, Developer tooling, Performance
+## Tech stack
+- Languages: Python, C++, C, JavaScript, HTML, CSS, Shell
+- Tools & frameworks: Qt/PySide6, raylib, SQLite, GitHub Actions, Linux/macOS workflows
+- Areas of interest: audio tooling, desktop applications, creative software, sample libraries, embedded and systems-adjacent engineering
 
-### Featured Projects
-- [ProjectOne](https://github.com/cmdiego/project-one) — Short 1-line description of what makes it interesting.
-- [ProjectTwo](https://github.com/cmdiego/project-two) — Short description.
-- [ProjectThree](https://github.com/cmdiego/project-three) — Short description.
+## Featured projects
+- [sample-manager](https://github.com/cmdiego/sample-manager) — A Python CLI and desktop app for indexing, searching, tagging, arranging, and exporting sample libraries.
+- [ableton_live_mcp](https://github.com/cmdiego/ableton_live_mcp) — An MCP server for Ableton Live 12 that exposes the Live API and Max for Live API to external tools.
+- [raylib-cpp-game-template](https://github.com/cmdiego/raylib-cpp-game-template) — A C++20 game template built with raylib, designed for fast prototyping and clean project structure.
+- [portfolio-website](https://github.com/cmdiego/portfolio-website) — My personal portfolio website and work showcase.
 
-(Replace or extend these with the repos you want pinned and showcased.)
-
-### 📫 How to reach me
-- Website: https://your-site.example
-- Email: hello@your-email.example
-- Twitter / X: https://twitter.com/yourhandle
-- LinkedIn: https://linkedin.com/in/yourhandle
+## Connect
+- Website: https://cmdiego.github.io/portfolio-website/
+- GitHub: https://github.com/cmdiego
 
 ---
 
-### GitHub Stats
+## GitHub Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdiego&layout=compact&theme=radical)
 ![Stats](https://github-readme-stats.vercel.app/api?username=cmdiego&show_icons=true&theme=radical)
 
 ---
 
-If you liked this layout, I can:
-1. Fill in the placeholders for you,
-2. Create the repo named `cmdiego` with this README,
-3. Add a small workflow to refresh dynamic parts (optional).
-
-Tell me which of the following you want next:
-- A: I want you to generate a completed README (give me the exact bio, skills, repos to feature, links).
-- B: Please create the `cmdiego` repo and commit this README for me (I’ll need permission).
-- C: Show me additional badge/icon options and an Action to auto-update the README daily.
-- D: I’ll do it myself — give me short copy for bio + 3 featured repos to paste.
-
-Optional enhancements (brief)
-- Badges: Shields (followers, last commit), GitHub Readme Stats (shown above), WakaTime (coding hours), GitHub Streak Stats.
-- Dynamic content: “Now” card (what you’re working on) using a tiny GitHub Action that updates the README or pulls from a JSON file/website.
-- Visual polish: banner image (1600×400), consistent emojis, 1–2 color themes for badges (use same theme in readme-stats).
-
-Next step
-Tell me which option (A/B/C/D) you want and provide the text/links you want shown (bio, 3 skills, 3 projects to feature, contact link). If you pick B, confirm I should create the repo and that I should commit the README under your account; I’ll then proceed and show you what I create.
+I like building software that sits between creativity and tooling — especially when it makes complex workflows easier to manage, automate, and extend.
