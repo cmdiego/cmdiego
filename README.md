@@ -2,7 +2,7 @@
 
 I'm an embedded software engineer who enjoys building things, exploring technology, and occasionally making noise with synthesizers
 
-![profile](https://github.com/cmdiego.png)
+![profile](<img width="4542" height="3971" alt="Headshot" src="https://github.com/user-attachments/assets/7ffda00f-2b46-4d37-8bb1-7952bdeb3a73" />)
 
 ## About me
 - 🔭 I’m currently building: Python desktop tools, music‑tech software, and workflow automation for sample libraries and creative production
