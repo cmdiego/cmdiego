@@ -8,12 +8,12 @@ I’m a software engineer focused on creative tooling, audio workflows, and desk
 - 🔭 I’m currently building: Python desktop tools, music-tech software, and workflow automation for sample libraries and creative production
 - 🌱 I’m learning: low-latency audio, real-time tooling, and deeper C++/systems-level development
 - 👯 I’m open to collaborating on: creative coding, music technology, sample management tools, desktop apps, and embedded software
-- 💬 Ask me about: Python, PySide6/Qt, audio tools, CLI workflows, sample organization, and practical software for creative work
+- 💬 Ask me about: Python, 
 - ⚡ Fun fact: I like turning messy creative processes into clean, reliable systems
 
 ## Tech stack
-- Languages: Python, C++, C, JavaScript, HTML, CSS, Shell
-- Tools & frameworks: Qt/PySide6, raylib, SQLite, GitHub Actions, Linux/macOS workflows
+- Languages: Python, C++, C
+- Tools & frameworks: 
 - Areas of interest: audio tooling, desktop applications, creative software, sample libraries, embedded and systems-adjacent engineering
 
 ## Featured projects
