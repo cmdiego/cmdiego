@@ -1,30 +1,32 @@
 # Hi, I’m Diego 👋
 
-I’m a software engineer focused on creative tooling, audio workflows, and desktop/embedded software. I enjoy building practical systems that make creative work faster, cleaner, and more flexible.
+I'm an embedded software engineer who enjoys building things, exploring technology, and occasionally making noise with synthesizers
 
 ![profile](https://github.com/cmdiego.png)
 
 ## About me
-- 🔭 I’m currently building: Python desktop tools, music-tech software, and workflow automation for sample libraries and creative production
-- 🌱 I’m learning: low-latency audio, real-time tooling, and deeper C++/systems-level development
+- 🔭 I’m currently building: Python desktop tools, music‑tech software, and workflow automation for sample libraries and creative production
+- 🌱 I’m learning: low‑latency audio, real‑time tooling, and deeper C++/systems-level development
 - 👯 I’m open to collaborating on: creative coding, music technology, sample management tools, desktop apps, and embedded software
-- 💬 Ask me about: Python, 
-- ⚡ Fun fact: I like turning messy creative processes into clean, reliable systems
+- 💬 Ask me about: Python, C/C++, embedded systems, audio tooling, and CLI workflows
 
-## Tech stack
-- Languages: Python, C++, C
-- Tools & frameworks: 
-- Areas of interest: audio tooling, desktop applications, creative software, sample libraries, embedded and systems-adjacent engineering
+## Tech & skills
+- Programming languages: C, C++, Python, MATLAB, Shell
+- Embedded platforms: STM32 series, Nordic nRF52 series, PSoC 5 & 6, Raspberry Pi
+- RTOS & OS: FreeRTOS, Zephyr, Embedded Linux, Android
+- Wireless & protocols: Bluetooth Classic, Bluetooth Low Energy (BLE), Bluetooth LE Audio, UART, I2S, I2C, SPI
+- Areas of interest: audio tooling, desktop applications, sample libraries, embedded & systems engineering
 
 ## Featured projects
 - [sample-manager](https://github.com/cmdiego/sample-manager) — A Python CLI and desktop app for indexing, searching, tagging, arranging, and exporting sample libraries.
 - [ableton_live_mcp](https://github.com/cmdiego/ableton_live_mcp) — An MCP server for Ableton Live 12 that exposes the Live API and Max for Live API to external tools.
-- [raylib-cpp-game-template](https://github.com/cmdiego/raylib-cpp-game-template) — A C++20 game template built with raylib, designed for fast prototyping and clean project structure.
-- [portfolio-website](https://github.com/cmdiego/portfolio-website) — My personal portfolio website and work showcase.
+- [raylib-cpp-game-template](https://github.com/cmdiego/raylib-cpp-game-template) — A C++20 game template built with raylib, designed for fast prototyping and a clean project structure.
+- [portfolio-website](https://github.com/cmdiego/portfolio-website) — Personal portfolio site (plain HTML/CSS/JS) showcasing my work.
 
 ## Connect
 - Website: https://cmdiego.github.io/portfolio-website/
 - GitHub: https://github.com/cmdiego
+- Email: cmdiegoapp@gmail.com
 
 ---
 
@@ -32,7 +34,3 @@ I’m a software engineer focused on creative tooling, audio workflows, and desk
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdiego&layout=compact&theme=radical)
 ![Stats](https://github-readme-stats.vercel.app/api?username=cmdiego&show_icons=true&theme=radical)
-
----
-
-I like building software that sits between creativity and tooling — especially when it makes complex workflows easier to manage, automate, and extend.
